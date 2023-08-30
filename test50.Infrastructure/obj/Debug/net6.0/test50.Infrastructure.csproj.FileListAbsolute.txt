@@ -1,0 +1,12 @@
+C:\Users\IRANFILMPORT\Desktop\test50\test50.Infrastructure\bin\Debug\net6.0\test50.Infrastructure.deps.json
+C:\Users\IRANFILMPORT\Desktop\test50\test50.Infrastructure\bin\Debug\net6.0\test50.Infrastructure.dll
+C:\Users\IRANFILMPORT\Desktop\test50\test50.Infrastructure\bin\Debug\net6.0\test50.Infrastructure.pdb
+C:\Users\IRANFILMPORT\Desktop\test50\test50.Infrastructure\obj\Debug\net6.0\test50.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\IRANFILMPORT\Desktop\test50\test50.Infrastructure\obj\Debug\net6.0\test50.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IRANFILMPORT\Desktop\test50\test50.Infrastructure\obj\Debug\net6.0\test50.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\IRANFILMPORT\Desktop\test50\test50.Infrastructure\obj\Debug\net6.0\test50.Infrastructure.AssemblyInfo.cs
+C:\Users\IRANFILMPORT\Desktop\test50\test50.Infrastructure\obj\Debug\net6.0\test50.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\IRANFILMPORT\Desktop\test50\test50.Infrastructure\obj\Debug\net6.0\test50.Infrastructure.dll
+C:\Users\IRANFILMPORT\Desktop\test50\test50.Infrastructure\obj\Debug\net6.0\refint\test50.Infrastructure.dll
+C:\Users\IRANFILMPORT\Desktop\test50\test50.Infrastructure\obj\Debug\net6.0\test50.Infrastructure.pdb
+C:\Users\IRANFILMPORT\Desktop\test50\test50.Infrastructure\obj\Debug\net6.0\ref\test50.Infrastructure.dll

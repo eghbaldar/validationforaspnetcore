@@ -1,0 +1,12 @@
+C:\Users\IRANFILMPORT\Desktop\test50\test50.Common\bin\Debug\net6.0\test50.Common.deps.json
+C:\Users\IRANFILMPORT\Desktop\test50\test50.Common\bin\Debug\net6.0\test50.Common.dll
+C:\Users\IRANFILMPORT\Desktop\test50\test50.Common\bin\Debug\net6.0\test50.Common.pdb
+C:\Users\IRANFILMPORT\Desktop\test50\test50.Common\obj\Debug\net6.0\test50.Common.csproj.AssemblyReference.cache
+C:\Users\IRANFILMPORT\Desktop\test50\test50.Common\obj\Debug\net6.0\test50.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IRANFILMPORT\Desktop\test50\test50.Common\obj\Debug\net6.0\test50.Common.AssemblyInfoInputs.cache
+C:\Users\IRANFILMPORT\Desktop\test50\test50.Common\obj\Debug\net6.0\test50.Common.AssemblyInfo.cs
+C:\Users\IRANFILMPORT\Desktop\test50\test50.Common\obj\Debug\net6.0\test50.Common.csproj.CoreCompileInputs.cache
+C:\Users\IRANFILMPORT\Desktop\test50\test50.Common\obj\Debug\net6.0\test50.Common.dll
+C:\Users\IRANFILMPORT\Desktop\test50\test50.Common\obj\Debug\net6.0\refint\test50.Common.dll
+C:\Users\IRANFILMPORT\Desktop\test50\test50.Common\obj\Debug\net6.0\test50.Common.pdb
+C:\Users\IRANFILMPORT\Desktop\test50\test50.Common\obj\Debug\net6.0\ref\test50.Common.dll

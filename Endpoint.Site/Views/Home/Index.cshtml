@@ -1,0 +1,36 @@
+﻿@model test50.Domain.Entities.Users.Users;
+
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<form asp-action="index" method="post">
+    <label asp-for="Name"></label>
+    <input asp-for="Name" />
+    <span asp-validation-for="Name"></span>
+    <input type="submit" value="Save" />
+</form>
+TEST
+
+@section Scripts {
+
+
+    <script src="~/lib/jquery-validation/dist/jquery.validate.min.js"></script>
+    <script src="~/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js"></script>
+
+    <script>
+
+
+        $.validator.unobtrusive.adapters.add("userValidators", [], function (options) {
+            options.rules.userValidators = {};
+            options.messages["userValidators"] = options.name;
+        });
+
+        $.validator.addMethod("userValidators",
+            function (value, element, parameters) {
+                return value.toUpperCase() !== "IRAN1";
+            });
+
+    </script>
+
+}
