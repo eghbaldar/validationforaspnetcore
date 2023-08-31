@@ -16,18 +16,4 @@ namespace test50.Domain.Entities.Users
         [UserValidators("Name")]
         public string Name { get; set; }
     }
-    public class Roles : BaseEntities
-    {
-        public long Id { get; set; }
-        public string Name { get; set; }
-        public ICollection<UsersInRoles> UsersInROles { get; set; }
-    }
-    public class UsersInRoles
-    {
-        public long Id { get; set; }
-        public virtual Users Users { get; set; }
-        public long UsersId { get; set; }
-        public virtual Roles Roles { get; set; }
-        public long RolesId { get; set; }
-    }
 }

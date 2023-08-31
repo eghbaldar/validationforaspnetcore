@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\IRANFILMPORT\\Desktop\\test50\\test50.Infrastructure\\test50.Infrastructure.csproj": {}
+    "D:\\_Developing_\\_SOURCE_\\_ASPNET CORE_\\Validation [Server & Client Side]\\test50\\test50.Infrastructure\\test50.Infrastructure.csproj": {}
   },
   "projects": {
-    "C:\\Users\\IRANFILMPORT\\Desktop\\test50\\test50.Infrastructure\\test50.Infrastructure.csproj": {
+    "D:\\_Developing_\\_SOURCE_\\_ASPNET CORE_\\Validation [Server & Client Side]\\test50\\test50.Infrastructure\\test50.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\IRANFILMPORT\\Desktop\\test50\\test50.Infrastructure\\test50.Infrastructure.csproj",
+        "projectUniqueName": "D:\\_Developing_\\_SOURCE_\\_ASPNET CORE_\\Validation [Server & Client Side]\\test50\\test50.Infrastructure\\test50.Infrastructure.csproj",
         "projectName": "test50.Infrastructure",
-        "projectPath": "C:\\Users\\IRANFILMPORT\\Desktop\\test50\\test50.Infrastructure\\test50.Infrastructure.csproj",
+        "projectPath": "D:\\_Developing_\\_SOURCE_\\_ASPNET CORE_\\Validation [Server & Client Side]\\test50\\test50.Infrastructure\\test50.Infrastructure.csproj",
         "packagesPath": "C:\\Users\\IRANFILMPORT\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\IRANFILMPORT\\Desktop\\test50\\test50.Infrastructure\\obj\\",
+        "outputPath": "D:\\_Developing_\\_SOURCE_\\_ASPNET CORE_\\Validation [Server & Client Side]\\test50\\test50.Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

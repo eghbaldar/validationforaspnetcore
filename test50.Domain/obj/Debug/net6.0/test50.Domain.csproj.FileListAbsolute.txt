@@ -10,3 +10,15 @@ C:\Users\IRANFILMPORT\Desktop\test50\test50.Domain\obj\Debug\net6.0\test50.Domai
 C:\Users\IRANFILMPORT\Desktop\test50\test50.Domain\obj\Debug\net6.0\refint\test50.Domain.dll
 C:\Users\IRANFILMPORT\Desktop\test50\test50.Domain\obj\Debug\net6.0\test50.Domain.pdb
 C:\Users\IRANFILMPORT\Desktop\test50\test50.Domain\obj\Debug\net6.0\ref\test50.Domain.dll
+D:\_Developing_\_SOURCE_\_ASPNET CORE_\Validation [Server & Client Side]\test50\test50.Domain\bin\Debug\net6.0\test50.Domain.deps.json
+D:\_Developing_\_SOURCE_\_ASPNET CORE_\Validation [Server & Client Side]\test50\test50.Domain\bin\Debug\net6.0\test50.Domain.dll
+D:\_Developing_\_SOURCE_\_ASPNET CORE_\Validation [Server & Client Side]\test50\test50.Domain\bin\Debug\net6.0\test50.Domain.pdb
+D:\_Developing_\_SOURCE_\_ASPNET CORE_\Validation [Server & Client Side]\test50\test50.Domain\obj\Debug\net6.0\test50.Domain.csproj.AssemblyReference.cache
+D:\_Developing_\_SOURCE_\_ASPNET CORE_\Validation [Server & Client Side]\test50\test50.Domain\obj\Debug\net6.0\test50.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\_Developing_\_SOURCE_\_ASPNET CORE_\Validation [Server & Client Side]\test50\test50.Domain\obj\Debug\net6.0\test50.Domain.AssemblyInfoInputs.cache
+D:\_Developing_\_SOURCE_\_ASPNET CORE_\Validation [Server & Client Side]\test50\test50.Domain\obj\Debug\net6.0\test50.Domain.AssemblyInfo.cs
+D:\_Developing_\_SOURCE_\_ASPNET CORE_\Validation [Server & Client Side]\test50\test50.Domain\obj\Debug\net6.0\test50.Domain.csproj.CoreCompileInputs.cache
+D:\_Developing_\_SOURCE_\_ASPNET CORE_\Validation [Server & Client Side]\test50\test50.Domain\obj\Debug\net6.0\test50.Domain.dll
+D:\_Developing_\_SOURCE_\_ASPNET CORE_\Validation [Server & Client Side]\test50\test50.Domain\obj\Debug\net6.0\refint\test50.Domain.dll
+D:\_Developing_\_SOURCE_\_ASPNET CORE_\Validation [Server & Client Side]\test50\test50.Domain\obj\Debug\net6.0\test50.Domain.pdb
+D:\_Developing_\_SOURCE_\_ASPNET CORE_\Validation [Server & Client Side]\test50\test50.Domain\obj\Debug\net6.0\ref\test50.Domain.dll

@@ -1,0 +1,33 @@
+﻿@model test50.Domain.Entities.Users.Address;
+@{
+}
+<form asp-action="address" method="post">
+    <label asp-for="Country"></label>
+    <input asp-for="Country" />
+    <span asp-validation-for="Country"></span>
+    <input type="submit" value="Save" />
+</form>
+
+
+@section Scripts {
+
+
+    <script src="~/lib/jquery-validation/dist/jquery.validate.min.js"></script>
+    <script src="~/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js"></script>
+
+    <script>
+
+
+        $.validator.unobtrusive.adapters.add("address", [], function (options) {
+            options.rules.address = {};
+            options.messages["address"] = options.name;
+        });
+
+        $.validator.addMethod("address",
+            function (value, element, parameters) {
+                return value.toUpperCase() !== "IRAN1";
+            });
+
+    </script>
+
+}

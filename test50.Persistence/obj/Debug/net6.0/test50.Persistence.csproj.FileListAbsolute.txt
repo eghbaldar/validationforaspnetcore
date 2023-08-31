@@ -17,3 +17,22 @@ C:\Users\IRANFILMPORT\Desktop\test50\test50.Persistence\obj\Debug\net6.0\refint\
 C:\Users\IRANFILMPORT\Desktop\test50\test50.Persistence\obj\Debug\net6.0\test50.Persistence.pdb
 C:\Users\IRANFILMPORT\Desktop\test50\test50.Persistence\obj\Debug\net6.0\test50.Persistence.genruntimeconfig.cache
 C:\Users\IRANFILMPORT\Desktop\test50\test50.Persistence\obj\Debug\net6.0\ref\test50.Persistence.dll
+D:\_Developing_\_SOURCE_\_ASPNET CORE_\Validation [Server & Client Side]\test50\test50.Persistence\bin\Debug\net6.0\test50.Persistence.deps.json
+D:\_Developing_\_SOURCE_\_ASPNET CORE_\Validation [Server & Client Side]\test50\test50.Persistence\bin\Debug\net6.0\test50.Persistence.runtimeconfig.json
+D:\_Developing_\_SOURCE_\_ASPNET CORE_\Validation [Server & Client Side]\test50\test50.Persistence\bin\Debug\net6.0\test50.Persistence.dll
+D:\_Developing_\_SOURCE_\_ASPNET CORE_\Validation [Server & Client Side]\test50\test50.Persistence\bin\Debug\net6.0\test50.Persistence.pdb
+D:\_Developing_\_SOURCE_\_ASPNET CORE_\Validation [Server & Client Side]\test50\test50.Persistence\bin\Debug\net6.0\test50.Application.dll
+D:\_Developing_\_SOURCE_\_ASPNET CORE_\Validation [Server & Client Side]\test50\test50.Persistence\bin\Debug\net6.0\test50.Domain.dll
+D:\_Developing_\_SOURCE_\_ASPNET CORE_\Validation [Server & Client Side]\test50\test50.Persistence\bin\Debug\net6.0\test50.Application.pdb
+D:\_Developing_\_SOURCE_\_ASPNET CORE_\Validation [Server & Client Side]\test50\test50.Persistence\bin\Debug\net6.0\test50.Domain.pdb
+D:\_Developing_\_SOURCE_\_ASPNET CORE_\Validation [Server & Client Side]\test50\test50.Persistence\obj\Debug\net6.0\test50.Persistence.csproj.AssemblyReference.cache
+D:\_Developing_\_SOURCE_\_ASPNET CORE_\Validation [Server & Client Side]\test50\test50.Persistence\obj\Debug\net6.0\test50.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+D:\_Developing_\_SOURCE_\_ASPNET CORE_\Validation [Server & Client Side]\test50\test50.Persistence\obj\Debug\net6.0\test50.Persistence.AssemblyInfoInputs.cache
+D:\_Developing_\_SOURCE_\_ASPNET CORE_\Validation [Server & Client Side]\test50\test50.Persistence\obj\Debug\net6.0\test50.Persistence.AssemblyInfo.cs
+D:\_Developing_\_SOURCE_\_ASPNET CORE_\Validation [Server & Client Side]\test50\test50.Persistence\obj\Debug\net6.0\test50.Persistence.csproj.CoreCompileInputs.cache
+D:\_Developing_\_SOURCE_\_ASPNET CORE_\Validation [Server & Client Side]\test50\test50.Persistence\obj\Debug\net6.0\test50.Persistence.csproj.CopyComplete
+D:\_Developing_\_SOURCE_\_ASPNET CORE_\Validation [Server & Client Side]\test50\test50.Persistence\obj\Debug\net6.0\test50.Persistence.dll
+D:\_Developing_\_SOURCE_\_ASPNET CORE_\Validation [Server & Client Side]\test50\test50.Persistence\obj\Debug\net6.0\refint\test50.Persistence.dll
+D:\_Developing_\_SOURCE_\_ASPNET CORE_\Validation [Server & Client Side]\test50\test50.Persistence\obj\Debug\net6.0\test50.Persistence.pdb
+D:\_Developing_\_SOURCE_\_ASPNET CORE_\Validation [Server & Client Side]\test50\test50.Persistence\obj\Debug\net6.0\test50.Persistence.genruntimeconfig.cache
+D:\_Developing_\_SOURCE_\_ASPNET CORE_\Validation [Server & Client Side]\test50\test50.Persistence\obj\Debug\net6.0\ref\test50.Persistence.dll

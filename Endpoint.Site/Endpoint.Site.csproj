@@ -21,6 +21,7 @@
 
   <ItemGroup>
     <Folder Include="CustomValidation\" />
+    <Folder Include="validators\" />
   </ItemGroup>
 
 </Project>

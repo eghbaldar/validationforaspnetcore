@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\IRANFILMPORT\\Desktop\\test50\\test50.Common\\test50.Common.csproj",
+      "projectUniqueName": "D:\\_Developing_\\_SOURCE_\\_ASPNET CORE_\\Validation [Server & Client Side]\\test50\\test50.Common\\test50.Common.csproj",
       "projectName": "test50.Common",
-      "projectPath": "C:\\Users\\IRANFILMPORT\\Desktop\\test50\\test50.Common\\test50.Common.csproj",
+      "projectPath": "D:\\_Developing_\\_SOURCE_\\_ASPNET CORE_\\Validation [Server & Client Side]\\test50\\test50.Common\\test50.Common.csproj",
       "packagesPath": "C:\\Users\\IRANFILMPORT\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\IRANFILMPORT\\Desktop\\test50\\test50.Common\\obj\\",
+      "outputPath": "D:\\_Developing_\\_SOURCE_\\_ASPNET CORE_\\Validation [Server & Client Side]\\test50\\test50.Common\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

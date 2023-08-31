@@ -1,8 +1,10 @@
+using FluentValidation;
 using Microsoft.AspNetCore.Mvc.DataAnnotations;
 using Microsoft.EntityFrameworkCore;
 using System.Web.Mvc;
 using test50.Application.Interfaces.Contexts;
 using test50.Domain.Commons.Validators;
+using test50.Domain.Entities.Users;
 using test50.Persistence.Context;
 
 var builder = WebApplication.CreateBuilder(args);
@@ -19,6 +21,18 @@ builder.Services.AddEntityFrameworkSqlServer().AddDbContext<DataBaseContext>(x=>
 //    {
 //        options.HtmlHelperOptions.ClientValidationEnabled = true;
 //    });
+///////////////////end
+
+///////////////////fluent
+builder.Services.AddScoped<IValidator<Roles>,RoleValidator>();
+builder.Services.AddScoped<IValidator<Address>,AddressValidator>();
+
+//FluentValidationModelValidatorProvider.Configure(
+//  provider =>
+//  {
+//      provider.ValidatorFactory = new DependencyResolverModelValidatorFactory();
+//  });
+///////////////////end
 
 var app = builder.Build();
 

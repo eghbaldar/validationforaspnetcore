@@ -13,3 +13,18 @@ C:\Users\IRANFILMPORT\Desktop\test50\test50.Application\obj\Debug\net6.0\test50.
 C:\Users\IRANFILMPORT\Desktop\test50\test50.Application\obj\Debug\net6.0\refint\test50.Application.dll
 C:\Users\IRANFILMPORT\Desktop\test50\test50.Application\obj\Debug\net6.0\test50.Application.pdb
 C:\Users\IRANFILMPORT\Desktop\test50\test50.Application\obj\Debug\net6.0\ref\test50.Application.dll
+D:\_Developing_\_SOURCE_\_ASPNET CORE_\Validation [Server & Client Side]\test50\test50.Application\bin\Debug\net6.0\test50.Application.deps.json
+D:\_Developing_\_SOURCE_\_ASPNET CORE_\Validation [Server & Client Side]\test50\test50.Application\bin\Debug\net6.0\test50.Application.dll
+D:\_Developing_\_SOURCE_\_ASPNET CORE_\Validation [Server & Client Side]\test50\test50.Application\bin\Debug\net6.0\test50.Application.pdb
+D:\_Developing_\_SOURCE_\_ASPNET CORE_\Validation [Server & Client Side]\test50\test50.Application\bin\Debug\net6.0\test50.Domain.dll
+D:\_Developing_\_SOURCE_\_ASPNET CORE_\Validation [Server & Client Side]\test50\test50.Application\bin\Debug\net6.0\test50.Domain.pdb
+D:\_Developing_\_SOURCE_\_ASPNET CORE_\Validation [Server & Client Side]\test50\test50.Application\obj\Debug\net6.0\test50.Application.csproj.AssemblyReference.cache
+D:\_Developing_\_SOURCE_\_ASPNET CORE_\Validation [Server & Client Side]\test50\test50.Application\obj\Debug\net6.0\test50.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\_Developing_\_SOURCE_\_ASPNET CORE_\Validation [Server & Client Side]\test50\test50.Application\obj\Debug\net6.0\test50.Application.AssemblyInfoInputs.cache
+D:\_Developing_\_SOURCE_\_ASPNET CORE_\Validation [Server & Client Side]\test50\test50.Application\obj\Debug\net6.0\test50.Application.AssemblyInfo.cs
+D:\_Developing_\_SOURCE_\_ASPNET CORE_\Validation [Server & Client Side]\test50\test50.Application\obj\Debug\net6.0\test50.Application.csproj.CoreCompileInputs.cache
+D:\_Developing_\_SOURCE_\_ASPNET CORE_\Validation [Server & Client Side]\test50\test50.Application\obj\Debug\net6.0\test50.Application.csproj.CopyComplete
+D:\_Developing_\_SOURCE_\_ASPNET CORE_\Validation [Server & Client Side]\test50\test50.Application\obj\Debug\net6.0\test50.Application.dll
+D:\_Developing_\_SOURCE_\_ASPNET CORE_\Validation [Server & Client Side]\test50\test50.Application\obj\Debug\net6.0\refint\test50.Application.dll
+D:\_Developing_\_SOURCE_\_ASPNET CORE_\Validation [Server & Client Side]\test50\test50.Application\obj\Debug\net6.0\test50.Application.pdb
+D:\_Developing_\_SOURCE_\_ASPNET CORE_\Validation [Server & Client Side]\test50\test50.Application\obj\Debug\net6.0\ref\test50.Application.dll

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\IRANFILMPORT\\Desktop\\test50\\test50.Domain\\test50.Domain.csproj": {}
+    "D:\\_Developing_\\_SOURCE_\\_ASPNET CORE_\\Validation [Server & Client Side]\\test50\\test50.Domain\\test50.Domain.csproj": {}
   },
   "projects": {
-    "C:\\Users\\IRANFILMPORT\\Desktop\\test50\\test50.Domain\\test50.Domain.csproj": {
+    "D:\\_Developing_\\_SOURCE_\\_ASPNET CORE_\\Validation [Server & Client Side]\\test50\\test50.Domain\\test50.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\IRANFILMPORT\\Desktop\\test50\\test50.Domain\\test50.Domain.csproj",
+        "projectUniqueName": "D:\\_Developing_\\_SOURCE_\\_ASPNET CORE_\\Validation [Server & Client Side]\\test50\\test50.Domain\\test50.Domain.csproj",
         "projectName": "test50.Domain",
-        "projectPath": "C:\\Users\\IRANFILMPORT\\Desktop\\test50\\test50.Domain\\test50.Domain.csproj",
+        "projectPath": "D:\\_Developing_\\_SOURCE_\\_ASPNET CORE_\\Validation [Server & Client Side]\\test50\\test50.Domain\\test50.Domain.csproj",
         "packagesPath": "C:\\Users\\IRANFILMPORT\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\IRANFILMPORT\\Desktop\\test50\\test50.Domain\\obj\\",
+        "outputPath": "D:\\_Developing_\\_SOURCE_\\_ASPNET CORE_\\Validation [Server & Client Side]\\test50\\test50.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -43,13 +43,21 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "dependencies": {
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[11.7.1, )"
+            },
             "Microsoft.AspNet.Mvc": {
               "target": "Package",
               "version": "[5.2.9, )"
             },
-            "Microsoft.AspNetCore.Mvc.Abstractions": {
+            "ServiceStack": {
               "target": "Package",
-              "version": "[2.2.0, )"
+              "version": "[6.10.0, )"
+            },
+            "System.ComponentModel.Annotations": {
+              "target": "Package",
+              "version": "[5.0.0, )"
             }
           },
           "imports": [

@@ -9,37 +9,45 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Endpoint.Site
 build_property.RootNamespace = Endpoint.Site
-build_property.ProjectDir = C:\Users\IRANFILMPORT\Desktop\test50\Endpoint.Site\
+build_property.ProjectDir = D:\_Developing_\_SOURCE_\_ASPNET CORE_\Validation [Server & Client Side]\test50\Endpoint.Site\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\IRANFILMPORT\Desktop\test50\Endpoint.Site
+build_property.MSBuildProjectDirectory = D:\_Developing_\_SOURCE_\_ASPNET CORE_\Validation [Server & Client Side]\test50\Endpoint.Site
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/IRANFILMPORT/Desktop/test50/Endpoint.Site/Views/Home/Index.cshtml]
+[D:/_Developing_/_SOURCE_/_ASPNET CORE_/Validation \[Server & Client Side\]/test50/Endpoint.Site/Views/Home/Address.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxBZGRyZXNzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/_Developing_/_SOURCE_/_ASPNET CORE_/Validation \[Server & Client Side\]/test50/Endpoint.Site/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/IRANFILMPORT/Desktop/test50/Endpoint.Site/Views/Home/Privacy.cshtml]
+[D:/_Developing_/_SOURCE_/_ASPNET CORE_/Validation \[Server & Client Side\]/test50/Endpoint.Site/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/IRANFILMPORT/Desktop/test50/Endpoint.Site/Views/Shared/Error.cshtml]
+[D:/_Developing_/_SOURCE_/_ASPNET CORE_/Validation \[Server & Client Side\]/test50/Endpoint.Site/Views/Home/Role.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxSb2xlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/_Developing_/_SOURCE_/_ASPNET CORE_/Validation \[Server & Client Side\]/test50/Endpoint.Site/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/IRANFILMPORT/Desktop/test50/Endpoint.Site/Views/Shared/_ValidationScriptsPartial.cshtml]
+[D:/_Developing_/_SOURCE_/_ASPNET CORE_/Validation \[Server & Client Side\]/test50/Endpoint.Site/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/IRANFILMPORT/Desktop/test50/Endpoint.Site/Views/_ViewImports.cshtml]
+[D:/_Developing_/_SOURCE_/_ASPNET CORE_/Validation \[Server & Client Side\]/test50/Endpoint.Site/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/IRANFILMPORT/Desktop/test50/Endpoint.Site/Views/_ViewStart.cshtml]
+[D:/_Developing_/_SOURCE_/_ASPNET CORE_/Validation \[Server & Client Side\]/test50/Endpoint.Site/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/IRANFILMPORT/Desktop/test50/Endpoint.Site/Views/Shared/_Layout.cshtml]
+[D:/_Developing_/_SOURCE_/_ASPNET CORE_/Validation \[Server & Client Side\]/test50/Endpoint.Site/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-oqejla57e6
